@@ -13,7 +13,7 @@ Launcher
 .. toctree::
    :maxdepth: 2
    
-   Launcher
+   Launcher/index
 
 
 Indices and tables
