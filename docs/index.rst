@@ -3,18 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Bienvenue sur le Wiki et la documentation des serveurs de Mineaurion.
+Tables des matières
 ==================================================
 
-Contents:
+.. _installing:
 
+Launcher
+--------
 .. toctree::
    :maxdepth: 2
-   :glob:
-
-   *
-   Launcher/index
-
+   
+   Launcher
 
 
 Indices and tables
