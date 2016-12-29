@@ -6,8 +6,6 @@
 Tables des matières
 ==================================================
 
-.. _installing:
-
 Launcher
 --------
 .. toctree::
@@ -20,7 +18,7 @@ Réglement
 .. toctree::
    :maxdepth: 2
    
-   rules/
+   rules/rules
 
 
 Indices and tables
