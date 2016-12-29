@@ -1,6 +1,9 @@
-===========
+Launcher
+===================
+
+
 Description
-===========
+-----------
 
 Le launcher de Mineaurion vous permet de profiter de tous les modpacks que nous proposons (exception pour ultimate) sur nos serveurs.
 
@@ -12,9 +15,8 @@ L'ip du serveur est déjà rentré dans la sélection du serveur, et celle du lo
 
 Vous profitez aussi d'un affichage des dernières annonces sur le forum, ce qui vous permet de ne rater aucune de nos actualités.
 
-=============================================
 Configuration de la mémoire allouée pour Java
-=============================================
+---------------------------------------------
 
 Il est recommandé d'utiliser Java 64 bits si vous disposer d'un système d'exploitation 64 bits, afin d'allouer plus de 1,5 Gb de ram pour Java vous trouverez cette version ici .
 
