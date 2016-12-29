@@ -15,7 +15,7 @@ Launcher
    
    Launcher/index
 
-Réglements
+Réglement
 ----------
 .. toctree::
    :maxdepth: 2
