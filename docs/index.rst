@@ -13,6 +13,7 @@ Contents:
    :glob:
 
    *
+   Launcher/index
 
 
 
