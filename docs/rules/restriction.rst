@@ -3,7 +3,7 @@ Restrictions
 
 Pour éviter les laggs sur l'ensemble des serveurs que nous hébergeons, nous avons mis en place une restriction sur le nombres de machines que vous pouvez disposer dans vos bases.
 
-1)Les Pipes BuildCraft:
+1) Les Pipes BuildCraft:
 
 Ces pipes ne sont vraiment pas optimisés pour les serveurs. Nous les tolérons pour les nouveaux joueurs. Une fois que vous disposez d'un applied correct, nous vous demanderons de les enlever. Il ne seront autorisé qu'à petite échelle sur les systèmes apiarys/alvearys ou encore sur une quarry (un diamond et un void)
 
