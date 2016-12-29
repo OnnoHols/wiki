@@ -15,6 +15,13 @@ Launcher
    
    Launcher/index
 
+Réglements
+----------
+.. toctree::
+   :maxdepth: 2
+   
+   rules/
+
 
 Indices and tables
 ==================
