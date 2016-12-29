@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Mineaurion-Wiki'
-copyright = '2017, Mineaurion Inc.'
+copyright = '2017, Mineaurion Inc'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
