@@ -1,8 +1,5 @@
-Téléchargement
-++++++++++++++
-
 Comment télécharger le launcher ?
-=================================
++++++++++++++++++++++++++++++++++
 
 Pour télécharger notre launcher il vous suffit de vous rendre à la page suivante : https://mineaurion.com/#launcher
 
