@@ -28,3 +28,7 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+.. toctree::
+   :glob:
+   
+   Launcher/*
