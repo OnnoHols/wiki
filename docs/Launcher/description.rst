@@ -1,4 +1,5 @@
-**Pour commencer, à quoi sert-il ?**
+Pour commencer, à quoi sert-il ?
+================================
 
 Notre launcher est un regroupement des modpacks que nous accueillons sur le serveur de MineAurion.
 Il permet d'avoir la possibilité de pouvoir choisir un modpack selon votre envie et de pouvoir ensuite vous connecter au serveur voulu.
