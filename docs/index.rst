@@ -10,14 +10,7 @@ Tables des matières
    :maxdepth: 1
 
    Launcher/index
-
-.. Réglement
-.. ----------
-.. .. toctree::
-   :maxdepth: 2
-   
-   rules/rules
-
+   rules/index
 
 Indices and tables
 ==================
