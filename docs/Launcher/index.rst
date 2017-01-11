@@ -6,6 +6,6 @@ Launcher
 
 
 .. toctree::
-    :hidden:
+    :glob:
     :maxdepth: 2
     *
