@@ -27,8 +27,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-.. toctree::
-   :glob:
-   
-   Launcher/*
