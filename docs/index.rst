@@ -11,6 +11,7 @@ Tables des matières
 
    Launcher/index
    rules/index
+   FAQ/index
 
 Indices and tables
 ==================
