@@ -6,16 +6,14 @@
 Tables des matières
 ==================================================
 
-Launcher
---------
 .. toctree::
-   :maxdepth: 2
-   
+   :maxdepth: 1
+
    Launcher/index
 
-Réglement
-----------
-.. toctree::
+.. Réglement
+.. ----------
+.. .. toctree::
    :maxdepth: 2
    
    rules/rules
@@ -25,5 +23,4 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
