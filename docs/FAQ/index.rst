@@ -42,11 +42,6 @@ De quels types de serveur nous disposons ?
 * Infinity Normal 1.7.10
 * Infinity Hard 1.7.10
 
-Comment rejoindre notre serveur ?
----------------------------------
-
-
-
 
 Comment faire une base de façon optimisé ?
 ------------------------------------------
