@@ -9,9 +9,9 @@ Sommaire
 .. toctree::
    :maxdepth: 1
 
-   Launcher/index
-   rules/index
-   FAQ/index
+   *Launcher/index
+   *rules/index
+   *FAQ/index
 
 Utiles
 ======
