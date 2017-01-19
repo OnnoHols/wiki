@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Tables des matières
-==================================================
+Sommaire
+========
 
 .. toctree::
    :maxdepth: 1
@@ -13,8 +13,8 @@ Tables des matières
    rules/index
    FAQ/index
 
-Indices and tables
-==================
+Utiles
+======
 
 * :ref:`genindex`
 * :ref:`search`
