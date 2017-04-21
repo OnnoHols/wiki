@@ -35,12 +35,11 @@ De quels types de serveur nous disposons ?
 ------------------------------------------
 
 * Ultimate *1.4.7*
-* Agrarian Skies *1.7.10*
-* AuriaPack *1.7.10*
-* Feed The Trouduc 3 *1.10.2*
-* Bevo's Tech Pack *1.7.10*
+* Agrarian Skies 2 *1.7.10*
+* AuriaPack *1.10.2*
+* Sky Factory 3 *1.10.2*
 * Infinity Normal *1.7.10*
-* Infinity Hard *1.7.10*
+* FTB Beyond *1.10.2*
 
 
 Comment faire une base de façon optimisé ?
