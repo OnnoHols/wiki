@@ -12,6 +12,7 @@ Sommaire
    Launcher/index
    rules/index
    FAQ/index
+   liens/index
 
 Utiles
 ======
