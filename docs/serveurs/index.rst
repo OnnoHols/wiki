@@ -171,255 +171,246 @@ Où le trouvé ?:
    
 Mods:
 
-=======================   ========================
-      Nom                        Version  
-=======================   ========================
+Advanced Solar Panels	   
 
-Advanced Solar Panels	   3.5.1
+AgriCraft	               
 
-AgriCraft	               1.5.0
+AOBD 2	                  
 
-AOBD 2	                  2.9.1
+Applied Energistics 2	   
 
-Applied Energistics 2	   rv3-beta-5
+Avaritia	                  
 
-Avaritia	                  1.11
+Baubles	                  
 
-Baubles	                  1.0.0.10
+BDLib	                     
 
-BDLib	                     1.9.4.109
+BiblioCraft	               
 
-BiblioCraft	               1.11.4
+BiblioWoods BoP	         
 
-BiblioWoods BoP	         1.9
+BiblioWoods Forestry	      
 
-BiblioWoods Forestry	      1.7
+BiblioWoods Natura	     
 
-BiblioWoods Natura	      1.5
+Big Reactors	            
 
-Big Reactors	            0.4.3A
+Binnie's Mods	           
 
-Binnie's Mods	            2.0-pre14
+Biomes O' Plenty	         
 
-Biomes O' Plenty	         2.1.0.1889
+Blood Magic	            
 
-Blood Magic	               1.3.3-17
+Botania	               
 
-Botania	                  r1.8-249
+Brandon's Core	        
 
-Brandon's Core	            1.0.0.11
+bspkrsCore	              
 
-bspkrsCore	               6.15
+BuildCraft	             
 
-BuildCraft	               7.1.14
+Buildcraft Compat	    
 
-Buildcraft Compat	         7.1.3
+Carpenter's Blocks	     
 
+ChickenChunks	          
 
-Carpenter's Blocks	      3.3.7
+Chisel 2	              
 
-ChickenChunks	            1.3.4.19-universal
+CodeChickenCore	       
 
-Chisel 2	                  2.9.4.10
+CoFH Core	               
 
-CodeChickenCore	         1.0.7.47-universal
+CoFH Lib	                
 
-CoFH Core	               3.1.2-325
+ComputerCraft	          
 
-CoFH Lib	                  1.1.1-181
+Custom Main Menu	       
 
-ComputerCraft	            1.75
+Decocraft	              
 
-Custom Main Menu	         1.9.2
+Dense Ores	          
 
-Decocraft	               2.2.1
+Draconic Evolution	      
 
-Dense Ores	               1.6.2
+EnderCore	            
 
-Draconic Evolution	      1.0.2-Snapshot_9
+EnderIO	                  
 
-EnderCore	               0.2.0.31 beta
+EnderStorage	        
 
-EnderIO	                  2.3.0.424
+EnderTech	            
 
-EnderStorage	            1.4.7.37-universal
+Ender Zoo	         
 
-EnderTech	               0.3.2.405
+Extra Cells 2	           
 
-Ender Zoo	               1.0.15.32
+ExtraTiC	                 
 
-Extra Cells 2	            2.3.9b188
+Extra Utilities	       
 
-ExtraTiC	                  1.4.5
+Fastcraft	            
 
-Extra Utilities	         1.2.12
+FastLeafDecay	          
 
-Fastcraft	               1.21
+Forbidden Magic	       
 
-FastLeafDecay	            1.4
+Forestry	                  
 
-Forbidden Magic	         0.573
+FTBLib	               
 
-Forestry	                  4.2.10.58
+FTBTweaks	            
 
-FTBLib	                  1.0.17.6
+FTB Utilities	            
 
-FTBTweaks	               1.0.1
+Funky Locomotion	     
 
-FTB Utilities	            1.0.17.6
+Gendustry	            
 
-Funky Locomotion	         beta-7
+Gravitation Suite	         
 
-Gendustry	               1.6.3.132
+GuideAPI	                  
 
-Gravitation Suite	         2.0.3
+Hats	                 
 
-GuideAPI	                  1.0.1-20
 
-Hats	                     4.0.1
+Hat Stand	            
 
+Headcrumbs	           
 
-Hat Stand	               4.0.0
+Nuclear Control	       
 
-Headcrumbs	               1.7.4
+iChunUtil	            
 
-Nuclear Control	         2.3.3a-Exist
+Immersive Engineering	
 
-iChunUtil	               4.2.2
+Immersive Integration	   
 
-Immersive Engineering	   0.7.3
+Immibis Core	          
 
-Immersive Integration	   0.6.7
+IndustrialCraft 2	       
 
-Immibis Core	            59.1.2
+INpureCore	               
 
-IndustrialCraft 2	         2.2.815
+Inventory Tweaks	         
 
-INpureCore	               1.0.0B9-62
+Iron Chests	               
 
-Inventory Tweaks	         1.59-dev-152
+JABBA	                    
 
-Iron Chests	               6.0.62.742-universal
+JourneyMap	            
 
-JABBA	                     1.2.1a
+Logistics Pipes	       
 
-JourneyMap	               5.1.4
+Magic Bees            	 
 
-Logistics Pipes	         0.9.3.95
+Mantle	               
 
-Magic Bees            	   2.4.3
+McJtyLib	              
 
-Mantle	                  0.3.2b
+MineFactory Reloaded	      
 
-McJtyLib	                  1.8.1
+MineTweaker 3	            
 
-MineFactory Reloaded	      2.8.1-174
+ModTweaker 2	         
 
-MineTweaker 3	            3.0.10B
+Morpheus	                  
 
-ModTweaker 2	            0.9.5
+Mystcraft	               
 
-Morpheus	                  1.6.21
+Natura	                  
 
-Mystcraft	               0.12.3.01
+NEI Addons	               
 
-Natura	                  2.2.0.1
+NEI Integration	      
 
-NEI Addons	               1.12.14.40
+Nether Ores	             
 
-NEI Integration	         1.1.2
+Not Enough Items	         
 
-Nether Ores	               2.3.1-22
+Not Enough Resources	      
 
-Not Enough Items	         1.0.5.108-universal
+Nuclear Control 2	       
 
-Not Enough Resources	      0.1.0-121
+OpenBlocks	               
 
-Nuclear Control 2	         2.3.4a
+OpenModsLib	              
 
-OpenBlocks	               1.5.1
+OpenPeripheral Addons	   
 
-OpenModsLib	               0.9.1
+OpenPeripheral Core	      
 
-OpenPeripheral Addons	   0.5.1
+OpenPeripheral Integration
 
-OpenPeripheral Core	      1.3
+Pam's HarvestCraft	     
 
-OpenPeripheral Integration	0.5
+Portal Gun	               
 
-Pam's HarvestCraft	      1.7.10Lb
+Project Red	              
 
-Portal Gun	               4.0.0-beta-6
+Railcraft	           
 
-Project Red	               4.7.0pre12.95
+Redstone Arsenal	       
 
-Railcraft	               9.9.0.0
+Resource Loader	       
 
-Redstone Arsenal	         1.1.2-92
+RFTools	                
 
-Resource Loader	         1.2
+Runic Dungeons	         
 
-RFTools	                  4.22
+Simply Jetpacks	       
 
-Runic Dungeons	            1.1.6a
+Solar Expansion	         
 
-Simply Jetpacks	         1.5.3
+Springboards	            
 
-Solar Expansion	         1.6a-Basic
+Steve's Addons	            
 
-Springboards	            0.1
+Steve's Carts 2	         
 
-Steve's Addons	            0.10.16
+Steve's Factory Manager	   
 
-Steve's Carts 2	         2.0.0.b18
+Steve's Workshop	       
 
-Steve's Factory Manager	   A93
+Storage Drawers	         
 
-Steve's Workshop	         0.5.1
+Thaumcraft 4	            
 
-Storage Drawers	         1.9.4
+Thaumcraft NEI Plugin	   
 
-Thaumcraft 4	            4.2.3.5
+Thaumic Energistics	    
 
+Thaumic Exploration	    
 
-Thaumcraft NEI Plugin	   1.7a
+Thaumic Tinkerer 2	     
 
-Thaumic Energistics	      1.0.0.1
+Thermal Dynamics	       
 
-Thaumic Exploration	      1.1-53
+Thermal Expansion 4	    
 
+Thermal Foundation	      
 
-Thaumic Tinkerer 2	      2.5-502
+TiC Tooltips	         
 
-Thermal Dynamics	         1.1.0-161
+Tinker's Construct	      
 
-Thermal Expansion 4	      4.1.2-240
+Tinker's Mechworks	    
 
-Thermal Foundation	      1.2.3-112
+Translocators	            
 
-TiC Tooltips	            1.2.5
+ttCore	                
 
-Tinker's Construct	      1.8.8
+Twilight Forest	         
 
-Tinker's Mechworks	      0.2.15.106
+Waila	                     
 
-Translocators	            1.1.2.15-universal
+Waila Harvestability	     
 
-ttCore	                  0.1.1-78
+Wawla	                    
 
-Twilight Forest	         2.3.7
+Witchery	                 
 
-Waila	                     1.7.10
-
-Waila Harvestability	      1.1.6
-
-Wawla	                     1.3.3
-
-Witchery	                  0.24.1
-
-WR-CBE	                  1.4.1.9-universal
-
-=======================  ========================
+WR-CBE	                
 
 FTB Beyond
 -----------------------------------------------------------
