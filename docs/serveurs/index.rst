@@ -10,7 +10,7 @@ Nos Serveurs
    
 FTB Ultimate
 ----------------------------------------------------------
-.. image:: FTB_Ultimate.jpg
+.. image:: FTB-Ultimate.png
     :width: 200px
     :align: center
     :height: 100px
