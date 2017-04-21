@@ -1,5 +1,5 @@
 Nos Serveurs
-+++
+++++++++++++
 
 .. note::
    Utilisez ``ctrl`` + ``F`` pour rechercher le modpack directement.
