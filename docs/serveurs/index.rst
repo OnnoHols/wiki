@@ -150,6 +150,10 @@ Mods:
 
 FTB Infinity
 ---------------------------------
+.. image:: FTB-Infinity.png
+    :width: 200px
+    :align: center
+    :height: 100px
 
 Thème du modpack: 
    Vivre une aventure survie avec un modpack qui lui aussi en as pour tous les gouts ainsi qu'un large éventail de mods présent sur le       modpack
