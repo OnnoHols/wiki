@@ -31,6 +31,65 @@ La difficulté:
 
 Où le trouvé ?:
    Sur Le `FTB Launcher <http://legacy.feed-the-beast.com/>`_
+   
+Mods:
+*Applied Energistics
+*BiblioCraft
+*BuildCraft
+*Forestry
+*Extra Bees
+*Thermal Expansion
+*ChickenChunks
+*CoFH Core
+*ComputerCraft
+*Misc Peripherals
+*Equivalent Exchange 3
+*EnderStorage
+*ExtrabiomesXL
+*Factorization
+*Flat Bedrock
+*Forge IRC
+*Gravity Gun
+*ImmibisCore
+*IndustrialCraft2
+*Advanced Machines
+*Advanced Solar Panels
+*Charge Pads
+*Gravitation Suite
+*GregTech
+*Modular Force Field System
+*Nuclear Control
+*Petroleum Generator
+*IntegratedSoundpacks
+*Inventory Tweaks
+*Iron Chests
+*MineFactory Reloaded
+*Modular Powersuits
+*Mystcraft
+*Nether Ores
+*Not Enough Items
+*NEI Plugins
+*Obsidian Pressure Plates
+*OmniTools
+*Portal Gun
+*Power Converters
+*PowerCrystals Core
+*Railcraft
+*RedPower 2
+*Secret Rooms
+*Soul Shards
+*Steve's Carts 2
+*Thaumcraft 3
+*Magic Bees
+*TubeStuff
+*Twilight Forest
+*VoxelMap
+*VoxelMenu
+*VoxelPlayer
+*Wireless Redstone Chicken Bones Edition
+*Xeno's Reliquary
+*XyCraft
+
 FTB Infinity
 ---------------------------------
 
