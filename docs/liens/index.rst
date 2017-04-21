@@ -1,4 +1,4 @@
-*Liens Utiles*
+Liens Utiles
 =========================
 
 Super liens utiles
