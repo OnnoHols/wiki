@@ -11,17 +11,17 @@ Ces règles ne sont, bien entendu, pas exhaustives et donc peuvent changer à to
 
 *Règles Générales : Celles-ci concerne tous les supports*
 
--Nous sommes tous d’accord sur le fait que la politesse et le respect sont les piliers de la communication, c’est pour cela que nous sommes intransigeant concernant ce point;
+- Nous sommes tous d’accord sur le fait que la politesse et le respect sont les piliers de la communication, c’est pour cela que nous sommes intransigeant concernant ce point;
 
--Nous demandons une qualité de langage correcte, ceci est étroitement lié au respect envers l’autre. Pour ce faire, le langage sms et ses dérivés sont très peu tolérés ici;
+- Nous demandons une qualité de langage correcte, ceci est étroitement lié au respect envers l’autre. Pour ce faire, le langage sms et ses dérivés sont très peu tolérés ici;
 
--Nous demandons à nos membres de faire un effort quant à leur comportement face aux autres, particulièrement envers les personnes mineurs, autant dans leur manière d’être que celle de s’exprimer, tout ceci dans le seul but d’offrir une expérience de jeu la plus agréable possible à tous;
+- Nous demandons à nos membres de faire un effort quant à leur comportement face aux autres, particulièrement envers les personnes mineurs, autant dans leur manière d’être que celle de s’exprimer, tout ceci dans le seul but d’offrir une expérience de jeu la plus agréable possible à tous;
 
--Nous sommes également très attentifs au « spam » ainsi qu’au « flood », qui sont très mals perçus par nos membres ainsi que nos modérateurs. L’utilisation abusive de majuscule dans une phrase est considérée comme du « flood »;
+- Nous sommes également très attentifs au « spam » ainsi qu’au « flood », qui sont très mals perçus par nos membres ainsi que nos modérateurs. L’utilisation abusive de majuscule dans une phrase est considérée comme du « flood »;
 
--Nous avons malheureusement dû interdire la pub sur notre serveur, du fait de sa virulence, elle est donc actuellement prohibée sur tous nos supports sans l’accord au préalable d’un administrateur. Si vous souhaitez promouvoir quelques choses via nos supports, veuillez adresser une demande à un admin par le biais du forum., nous serons heureux de répondre à votre demande.
+- Nous avons malheureusement dû interdire la pub sur notre serveur, du fait de sa virulence, elle est donc actuellement prohibée sur tous nos supports sans l’accord au préalable d’un administrateur. Si vous souhaitez promouvoir quelques choses via nos supports, veuillez adresser une demande à un admin par le biais du forum., nous serons heureux de répondre à votre demande.
 
--Nous avons mis en place une boutique in-game et aussi via un site, en conséquence tout systèmes (ou joueurs ) visant à outrepasser ou faisant équivalent aux différents shops mis en place sont interdit.
+- Nous avons mis en place une boutique in-game et aussi via un site, en conséquence tout systèmes (ou joueurs ) visant à outrepasser ou faisant équivalent aux différents shops mis en place sont interdit.
 
 *Règles Forum :*
 
