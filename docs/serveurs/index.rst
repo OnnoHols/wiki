@@ -33,118 +33,118 @@ Où le trouvé ?:
    Sur Le `FTB Launcher <http://legacy.feed-the-beast.com/>`_
    
 Mods:
-*Applied Energistics
 
-*BiblioCraft
+* Applied Energistics
 
-*BuildCraft
+* BiblioCraft
 
-*Forestry
+* BuildCraft
 
-*Extra Bees
+* Forestry
 
-*Thermal Expansion
+*  Extra Bees
 
-*ChickenChunks
+* Thermal Expansion
 
-*CoFH Core
+* ChickenChunks
 
-*ComputerCraft
+* CoFH Core
 
-*Misc Peripherals
+* ComputerCraft
 
-*Equivalent Exchange 3
+* Misc Peripherals
 
-*EnderStorage
+* Equivalent Exchange 3
 
-*ExtrabiomesXL
+* EnderStorage
 
-*Factorization
+* ExtrabiomesXL
 
-*Flat Bedrock
+* Factorization
 
-*Forge IRC
+* Flat Bedrock
 
-*Gravity Gun
+* Forge IRC
 
-*ImmibisCore
+* Gravity Gun
 
-*IndustrialCraft2
+* ImmibisCore
 
-*Advanced Machines
+* IndustrialCraft2
 
-*Advanced Solar Panels
+*  Advanced Machines
 
-*Charge Pads
+*  Advanced Solar Panels
 
-*Gravitation Suite
+*  Charge Pads
 
-*GregTech
+*  Gravitation Suite
 
-*Modular Force Field System
+* GregTech
 
-*Nuclear Control
+* Modular Force Field System
 
-*Petroleum Generator
+* Nuclear Control
 
-*IntegratedSoundpacks
+* Petroleum Generator
 
-*Inventory Tweaks
+* IntegratedSoundpacks
 
-*Iron Chests
+* Inventory Tweaks
 
-*MineFactory Reloaded
+* Iron Chests
 
-*Modular Powersuits
+* MineFactory Reloaded
 
-*Mystcraft
+* Modular Powersuits
 
-*Nether Ores
+* Mystcraft
 
-*Not Enough Items
+* Nether Ores
 
+* Not Enough Items
 
-*NEI Plugins
+* NEI Plugins
 
-*Obsidian Pressure Plates
+* Obsidian Pressure Plates
 
-*OmniTools
+* OmniTools
 
-*Portal Gun
+* Portal Gun
 
-*Power Converters
+* Power Converters
 
-*PowerCrystals Core
+* PowerCrystals Core
 
-*Railcraft
+* Railcraft
 
-*RedPower 2
+* RedPower 2
 
-*Secret Rooms
+* Secret Rooms
 
-*Soul Shards
+* Soul Shards
 
-*Steve's Carts 2
+* Steve's Carts 2
 
-*Thaumcraft 3
+* Thaumcraft 3
 
-*Magic Bees
+* Magic Bees
 
-*TubeStuff
+* TubeStuff
 
-*Twilight Forest
+* Twilight Forest
 
-*VoxelMap
+* VoxelMap
 
-*VoxelMenu
+*  VoxelMenu
 
-*VoxelPlayer
+*  VoxelPlayer
 
-*Wireless Redstone Chicken Bones Edition
+* Wireless Redstone Chicken Bones Edition
 
-*Xeno's Reliquary
+* Xeno's Reliquary
 
-*XyCraft
+*  XyCraft
 
 
 FTB Infinity
