@@ -40,7 +40,7 @@ De quels types de serveur nous disposons ?
 * Sky Factory 3 *1.10.2*
 * Infinity Normal *1.7.10*
 * FTB Beyond *1.10.2*
-
+* Starbound
 
 Comment faire une base de façon optimisé ?
 ------------------------------------------
