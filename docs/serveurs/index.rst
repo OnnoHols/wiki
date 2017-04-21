@@ -243,178 +243,177 @@ Mods:
 
 * EnderStorage	        
 
-EnderTech	            
+* EnderTech	            
 
-Ender Zoo	         
+* Ender Zoo	         
 
-Extra Cells 2	           
+* Extra Cells 2	           
 
-ExtraTiC	                 
+* ExtraTiC	                 
 
-Extra Utilities	       
+* Extra Utilities	       
 
-Fastcraft	            
+* Fastcraft	            
 
-FastLeafDecay	          
+* FastLeafDecay	          
 
-Forbidden Magic	       
+* Forbidden Magic	       
 
-Forestry	                  
+* Forestry	                  
 
-FTBLib	               
+* FTBLib	               
 
-FTBTweaks	            
+* FTBTweaks	            
 
-FTB Utilities	            
+* FTB Utilities	            
 
-Funky Locomotion	     
+* Funky Locomotion	     
 
-Gendustry	            
+* Gendustry	            
 
-Gravitation Suite	         
+* Gravitation Suite	         
 
-GuideAPI	                  
+* GuideAPI	                  
 
-Hats	                 
+* Hats	                 
 
+* Hat Stand	            
 
-Hat Stand	            
+* Headcrumbs	           
 
-Headcrumbs	           
+* Nuclear Control	       
 
-Nuclear Control	       
+* iChunUtil	            
 
-iChunUtil	            
+* Immersive Engineering	
 
-Immersive Engineering	
+* Immersive Integration	   
 
-Immersive Integration	   
+* Immibis Core	          
 
-Immibis Core	          
+* IndustrialCraft 2	       
 
-IndustrialCraft 2	       
+* INpureCore	               
 
-INpureCore	               
+* Inventory Tweaks	         
 
-Inventory Tweaks	         
+* Iron Chests	               
 
-Iron Chests	               
+* JABBA	                    
 
-JABBA	                    
+* JourneyMap	            
 
-JourneyMap	            
+* Logistics Pipes	       
 
-Logistics Pipes	       
+* Magic Bees            	 
 
-Magic Bees            	 
+* Mantle	               
 
-Mantle	               
+* McJtyLib	              
 
-McJtyLib	              
+* MineFactory Reloaded	      
 
-MineFactory Reloaded	      
+* MineTweaker 3	            
 
-MineTweaker 3	            
+* ModTweaker 2	         
 
-ModTweaker 2	         
+* Morpheus	                  
 
-Morpheus	                  
+* Mystcraft	               
 
-Mystcraft	               
+* Natura	                  
 
-Natura	                  
+* NEI Addons	               
 
-NEI Addons	               
+* NEI Integration	      
 
-NEI Integration	      
+* Nether Ores	             
 
-Nether Ores	             
+* Not Enough Items	         
 
-Not Enough Items	         
+* Not Enough Resources	      
 
-Not Enough Resources	      
+* Nuclear Control 2	       
 
-Nuclear Control 2	       
+* OpenBlocks	               
 
-OpenBlocks	               
+* OpenModsLib	              
 
-OpenModsLib	              
+* OpenPeripheral Addons	   
 
-OpenPeripheral Addons	   
+* OpenPeripheral Core	      
 
-OpenPeripheral Core	      
+* OpenPeripheral Integration
 
-OpenPeripheral Integration
+* Pam's HarvestCraft	     
 
-Pam's HarvestCraft	     
+* Portal Gun	               
 
-Portal Gun	               
+* Project Red	              
 
-Project Red	              
+* Railcraft	           
 
-Railcraft	           
+* Redstone Arsenal	       
 
-Redstone Arsenal	       
+* Resource Loader	       
 
-Resource Loader	       
+* RFTools	                
 
-RFTools	                
+* Runic Dungeons	         
 
-Runic Dungeons	         
+* Simply Jetpacks	       
 
-Simply Jetpacks	       
+* Solar Expansion	         
 
-Solar Expansion	         
+* Springboards	            
 
-Springboards	            
+* Steve's Addons	            
 
-Steve's Addons	            
+* Steve's Carts 2	         
 
-Steve's Carts 2	         
+* Steve's Factory Manager	   
 
-Steve's Factory Manager	   
+* Steve's Workshop	       
 
-Steve's Workshop	       
+* Storage Drawers	         
 
-Storage Drawers	         
+* Thaumcraft 4	            
 
-Thaumcraft 4	            
+* Thaumcraft NEI Plugin	   
 
-Thaumcraft NEI Plugin	   
+* Thaumic Energistics	    
 
-Thaumic Energistics	    
+* Thaumic Exploration	    
 
-Thaumic Exploration	    
+* Thaumic Tinkerer 2	     
 
-Thaumic Tinkerer 2	     
+* Thermal Dynamics	       
 
-Thermal Dynamics	       
+* Thermal Expansion 4	    
 
-Thermal Expansion 4	    
+* Thermal Foundation	      
 
-Thermal Foundation	      
+* TiC Tooltips	         
 
-TiC Tooltips	         
+* Tinker's Construct	      
 
-Tinker's Construct	      
+* Tinker's Mechworks	    
 
-Tinker's Mechworks	    
+* Translocators	            
 
-Translocators	            
+* ttCore	                
 
-ttCore	                
+* Twilight Forest	         
 
-Twilight Forest	         
+* Waila	                     
 
-Waila	                     
+* Waila Harvestability	     
 
-Waila Harvestability	     
+* Wawla	                    
 
-Wawla	                    
+* Witchery	                 
 
-Witchery	                 
-
-WR-CBE	                
+* WR-CBE	                
 
 FTB Beyond
 -----------------------------------------------------------
