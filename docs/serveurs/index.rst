@@ -14,8 +14,9 @@ FTB Ultimate
     :width: 200px
     :align: center
     :height: 100px
+
 Thème du modpack: 
-   Vivre une aventure survie aveec un modpack qui en as pour tous les gouts que ce soirt magie, technologie, exploration
+   Vivre une aventure survie aveec un modpack qui en as pour tous les gouts que ce soirt magie, technologie, exploration.
    
 Genre:
    Survie
