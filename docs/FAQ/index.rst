@@ -16,7 +16,7 @@ Toutes les règles sont disponibles sur notre `forum <https://forum.mineaurion.c
 Y a t-il un teamspeak ? Discord ?
 ---------------------------------
 
-Nous disposons d'un discord, vous pouvez le rejoindre via cette `invitation <https://mineaurion.com/discord>`_ . Discord permet de vous relier les infomrations concernant les serveurs et les nouveautés directement, pensez à vous connecter dessus.
+Nous disposons d'un discord, vous pouvez le rejoindre via cette `invitation <https://mineaurion.com/discord>`_ . Discord permet de vous relier les informations concernant les serveurs et les nouveautés directement, pensez à vous connecter dessus.
 
 A quelles fréquences redémarrent les serveurs ?
 -----------------------------------------------
@@ -45,5 +45,5 @@ De quels types de serveur nous disposons ?
 Comment faire une base de façon optimisé ?
 ------------------------------------------
 
-Les tutos sont disponible eux aussi sur notre forum rubrique `tutoriels <https://forum.mineaurion.com/category/35/tutoriels>`_.
+Les tutos sont disponibles eux aussi sur notre forum rubrique `tutoriels <https://forum.mineaurion.com/category/35/tutoriels>`_.
 
