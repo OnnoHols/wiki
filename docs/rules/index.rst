@@ -111,12 +111,12 @@ Tout cela participe grandement à son enrichissement et c’est une de nos grand
 Nous ne laisserons personnes portés atteintes à ces différences et c’est pourquoi, nous sommes intangibles quant aux sanctions que nous donnons aux personnes ne respectant pas cette multiculturalité.
 A fin de ne pas faire parti de ces personnes, je vous invite à lire les règles attentivement, certes elles sont un peu longues mais prenez cela comme un investissement de votre temps !
 
--Suite à plusieurs soucis sur le serveur lié à des conflits entre joueurs d'une même base, nous avons décidé la chose suivante:
+*Suite à plusieurs soucis sur le serveur lié à des conflits entre joueurs d'une même base, nous avons décidé la chose suivante:*
 
-*Si une personne quitte la base sans prévenir, en emportant toutes les machines avec lui, cela sera considéré comme vol, et des sanctions seront appliquées.
+Si une personne quitte la base sans prévenir, en emportant toutes les machines avec lui, cela sera considéré comme vol, et des sanctions seront appliquées.
 
-*Si les joueurs n'arrive pas à se mettre d'accord nous ferons alors 50/50 avec les ressources concernées.
+Si les joueurs n'arrive pas à se mettre d'accord nous ferons alors 50/50 avec les ressources concernées.
 
-*Si jamais la situation dégénère nous supprimerons la base entièrement et les joueurs devront recommencer à 0.
+Si jamais la situation dégénère nous supprimerons la base entièrement et les joueurs devront recommencer à 0.
 
 Pour ces situations la décision reste à l’appréciation du Staff.
