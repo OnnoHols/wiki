@@ -68,7 +68,7 @@ Un bug découvert doit être immédiatement reporté sur le forum dans la sectio
 
 - Les objets causant une sanction seront confisqués et dans la plus part du temps supprimés.
 
--Les personnes postulant au grade de citoyen, sur les serveurs demandant une candidature, devront afficher la phrase suivante à la fin de leur candidature, dans le but de prouver qu’ils ont lu les règles et qu’ils les ont compris : «Ces règles sont sympathiques cependant je n’acquiesce pas la totalité de celles-ci Cordialement nomdujoueur».
+- Les personnes postulant au grade de citoyen, sur les serveurs demandant une candidature, devront afficher la phrase suivante à la fin de leur candidature, dans le but de prouver qu’ils ont lu les règles et qu’ils les ont compris : «Ces règles sont sympathiques cependant je n’acquiesce pas la totalité de celles-ci Cordialement nomdujoueur».
 
 *Règles Spécifiques :*
 
