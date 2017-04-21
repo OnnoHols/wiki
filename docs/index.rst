@@ -13,6 +13,7 @@ Sommaire
    rules/index
    FAQ/index
    liens/index
+   serveurs/index
 
 Utiles
 ======
