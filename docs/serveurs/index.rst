@@ -175,73 +175,73 @@ Où le trouvé ?:
    
 Mods:
 
-Advanced Solar Panels	   
+* Advanced Solar Panels	   
 
-AgriCraft	               
+* AgriCraft	               
 
-AOBD 2	                  
+* AOBD 2	                  
 
-Applied Energistics 2	   
+* Applied Energistics 2	   
 
-Avaritia	                  
+* Avaritia	                  
 
-Baubles	                  
+* Baubles	                  
 
-BDLib	                     
+* BDLib	                     
 
-BiblioCraft	               
+* BiblioCraft	               
 
-BiblioWoods BoP	         
+* BiblioWoods BoP	         
 
-BiblioWoods Forestry	      
+* BiblioWoods Forestry	      
 
-BiblioWoods Natura	     
+* BiblioWoods Natura	     
 
-Big Reactors	            
+* Big Reactors	            
 
-Binnie's Mods	           
+* Binnie's Mods	           
 
-Biomes O' Plenty	         
+* Biomes O' Plenty	         
 
-Blood Magic	            
+* Blood Magic	            
 
-Botania	               
+* Botania	               
 
-Brandon's Core	        
+* Brandon's Core	        
 
-bspkrsCore	              
+* bspkrsCore	              
 
-BuildCraft	             
+* BuildCraft	             
 
-Buildcraft Compat	    
+* Buildcraft Compat	    
 
-Carpenter's Blocks	     
+* Carpenter's Blocks	     
 
-ChickenChunks	          
+* ChickenChunks	          
 
-Chisel 2	              
+* Chisel 2	              
 
-CodeChickenCore	       
+* CodeChickenCore	       
 
-CoFH Core	               
+* CoFH Core	               
 
-CoFH Lib	                
+* CoFH Lib	                
 
-ComputerCraft	          
+* ComputerCraft	          
 
-Custom Main Menu	       
+* Custom Main Menu	       
 
-Decocraft	              
+* Decocraft	              
 
-Dense Ores	          
+* Dense Ores	          
 
-Draconic Evolution	      
+* Draconic Evolution	      
 
-EnderCore	            
+* EnderCore	            
 
-EnderIO	                  
+* EnderIO	                  
 
-EnderStorage	        
+* EnderStorage	        
 
 EnderTech	            
 
