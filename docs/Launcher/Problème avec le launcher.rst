@@ -1,6 +1,6 @@
 Que faire si j’ai une erreur comme ça ?
 .. image:: 02.png
-   align:  center
+   :align:  center
 
 +++++++++++++++++++++++++++++++++++++++++
 
@@ -15,7 +15,7 @@ Tout d’abord regarder votre version de java, pour ça :
 4. Et enfin, cherché Java.
 
 .. image:: java64.png
-   align:  center
+   :align:  center
    
 Si jamais l’architecture « 64-bit » est spécifié, exemple comme ça
 Alors vous avez la version 64 bit de java.
