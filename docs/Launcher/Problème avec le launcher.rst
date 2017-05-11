@@ -1,4 +1,4 @@
-* Que faire si j’ai une erreur comme ça ?
+Que faire si j’ai une erreur comme ça ?
 +++++++++++++
 
 .. image:: 02.png
