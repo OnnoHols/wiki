@@ -11,12 +11,12 @@ ChunkLoaders
 Combien de chunkloader possède-ton ?
 ------------------------------------
 
-Vous posséder 51 online et 51 alwaysOn. C'est à dire 51 chunk qui peuvent être chargés quand vous n'êtes pas connectés et 51 exclusivement quand vous êtes connectés.
+Vous posséder 51 online et 51 alwaysOn. C'est à dire 51 chunks qui peuvent être chargés quand vous n'êtes pas connectés et 51 exclusivement quand vous êtes connectés.
 
 Comment faire un chunkloader ?
 ------------------------------
 
-Tout d'abord vous devez vous munir d'une blaze rod et d'un block de fer ou diamant (Block de diamant pour les chunks chargés même deconnecté)
+Tout d'abord vous devez vous munir d'une blaze rod et d'un block de fer ou diamant (Block de diamant pour charger les chunks même deconnecté)
 
 .. image:: http://imgur.com/a15gIlv.png
    :width: 300px
@@ -40,10 +40,10 @@ Pourquoi les chunks sont inactifs quand je ne suis pas connecté ?
 
 Verifiez bien que vous utilisez un block de diamant. De faite que tous le monde puisse utiliser les blocks de diamant, si vous n'êtes pas connectés depuis 24 heures sur le serveur, votre chunkloader sera desactivé.
 
-Pouvons-nous obtenir d'autre chunkloader ?
-------------------------------------------
+Pouvons-nous augmenter notre somme de chunkloader ?
+---------------------------------------------------
 
-Ce sera bientot le cas via la boutique
+Ce sera bientot le cas via la boutique.
 
 Commandes utiles
 ----------------
