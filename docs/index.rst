@@ -14,6 +14,7 @@ Sommaire
    FAQ/index
    liens/index
    serveurs/index
+   chunkloaders/index
 
 Utiles
 ======
