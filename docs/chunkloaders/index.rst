@@ -21,5 +21,5 @@ Tout d'abord vous devez vous munir d'une blaze rod et d'un block de fer ou diama
 .. image:: http://imgur.com/a15gIlv.png
    :width: 300px
    
-.. image:: http://imgur.com/CvpEyln.png
+.. image:: http://imgur.com/1wWj9g6.png
    :width: 300px
