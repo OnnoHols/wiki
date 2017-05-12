@@ -23,3 +23,8 @@ Tout d'abord vous devez vous munir d'une blaze rod et d'un block de fer ou diama
    
 .. image:: http://imgur.com/1wWj9g6.png
    :width: 300px
+   
+Le block posé dans le chunk souhaité, faites un clique droit avec une blaze rod dessus. Une interface s'ouvre qui vous permet de choisir la taille du chunkloader :
+
+.. image:: http://imgur.com/EnNCswy.png
+
