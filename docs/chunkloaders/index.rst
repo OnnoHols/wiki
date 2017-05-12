@@ -19,7 +19,7 @@ Comment faire un chunkloader ?
 Tout d'abord vous devez vous munir d'une blaze rod et d'un block de fer ou diamant (Block de diamant pour les chunks chargés même deconnecté)
 
 .. image:: http://imgur.com/a15gIlv.png
-   :height: 50px
+   :width: 50px
    
 .. image:: http://imgur.com/CvpEyln.png
-   :height: 50px
+   :width: 50px
