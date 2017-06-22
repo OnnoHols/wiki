@@ -636,7 +636,7 @@ Sky Factory
     :height: 100px
     
 Thème du modpack: 
-   Vivre une aventure survie sur une ile et devoir cherché à se développer seul alors je vous suggère ce modpack.
+  Si vous souhaitez vivre une aventure survie sur une ile en cherchant à se développer seul ou à plusieurs alors je vous suggère ce modpack.
    
 Genre:
    Survie
