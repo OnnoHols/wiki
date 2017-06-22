@@ -423,7 +423,7 @@ FTB Beyond
     :height: 100px
     
 Thème du modpack: 
-   Vivre une aventure survie avec un modpack qui vous donne un peu de fil à retordre ce modpack est fait pour vous alors.
+   Vivre une aventure survie avec un modpack qui vous donne un peu de fil à retordre ce modpack est fait pour vous.
    
 Genre:
    Survie
